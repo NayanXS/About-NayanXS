@@ -776,6 +776,9 @@ a .work-title:hover{
     width: 100% ;
 }
 
+.btn-box.submit .btn.submit-text{
+    color: var(--bg-color);
+}
 
 
 
